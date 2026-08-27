@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Working On Overtime X", // required by Discord API, not shown in the client
-        state: "stalking",     // this is what people actually see
+        state: "Working On Overtime X",     // this is what people actually see
         type: 2,               // Custom
       },
     ],
