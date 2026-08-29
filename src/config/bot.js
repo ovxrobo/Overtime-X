@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Working On Overtime X", // required by Discord API, not shown in the client
-        state: "Working On Overtime X",     // this is what people actually see
-        type: 2,               // Custom
+        name: "Working On Forgotten Souls", // required by Discord API, not shown in the client
+        state: "Working On Forgotten Souls",     // this is what people actually see
+        type: 3,               // Custom
       },
     ],
   },
